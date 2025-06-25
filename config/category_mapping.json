@@ -1,0 +1,11 @@
+{
+  "budgets": {
+    "Dining": 400,
+    "Groceries": 500,
+    "Travel": 300,
+    "Subscriptions": 100,
+    "Utilities": 200,
+    "Rent": 1800,
+    "Income": 0
+  }
+}

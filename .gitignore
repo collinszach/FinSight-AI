@@ -2,6 +2,16 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.csv
+# Ignore runtime folders
+incoming/
+processed/
+normalized/
+.env
+__pycache__/
+*.pyc
+pgdata/
+
 
 # C extensions
 *.so

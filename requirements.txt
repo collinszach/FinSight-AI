@@ -1,0 +1,11 @@
+pandas
+psycopg2-binary
+streamlit
+streamlit-option-menu
+python-dotenv
+requests
+plotly
+prophet
+faiss-cpu
+langchain>=0.1.17
+langchain-community
